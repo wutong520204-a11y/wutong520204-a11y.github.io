@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wutong520204-a11y.github.io/sitemap.xml

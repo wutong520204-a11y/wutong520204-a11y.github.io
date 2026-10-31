@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Base URL: https://wutong520204-a11y.github.io — rebuild with BASE_URL=https://your-domain node src/build.js -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://wutong520204-a11y.github.io/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/en/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/ru/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/zh/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/en/cbm-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/cbm-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/cbm-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/cbm-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/cbm-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/ru/cbm-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/cbm-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/cbm-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/cbm-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/cbm-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/zh/cbm-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/cbm-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/cbm-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/cbm-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/cbm-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/en/chargeable-weight-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/chargeable-weight-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/chargeable-weight-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/chargeable-weight-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/chargeable-weight-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/ru/chargeable-weight-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/chargeable-weight-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/chargeable-weight-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/chargeable-weight-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/chargeable-weight-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/zh/chargeable-weight-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/chargeable-weight-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/chargeable-weight-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/chargeable-weight-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/chargeable-weight-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/en/container-loading-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/container-loading-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/container-loading-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/container-loading-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/container-loading-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/ru/container-loading-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/container-loading-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/container-loading-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/container-loading-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/container-loading-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/zh/container-loading-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/container-loading-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/container-loading-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/container-loading-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/container-loading-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/en/fcl-vs-lcl-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/fcl-vs-lcl-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/fcl-vs-lcl-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/fcl-vs-lcl-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/fcl-vs-lcl-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/ru/fcl-vs-lcl-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/fcl-vs-lcl-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/fcl-vs-lcl-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/fcl-vs-lcl-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/fcl-vs-lcl-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/zh/fcl-vs-lcl-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/fcl-vs-lcl-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/fcl-vs-lcl-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/fcl-vs-lcl-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/fcl-vs-lcl-calculator/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/en/unit-converter/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/unit-converter/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/unit-converter/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/unit-converter/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/unit-converter/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/ru/unit-converter/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/unit-converter/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/unit-converter/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/unit-converter/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/unit-converter/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/zh/unit-converter/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/unit-converter/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/unit-converter/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/unit-converter/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/unit-converter/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/en/middle-corridor/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/middle-corridor/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/middle-corridor/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/middle-corridor/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/middle-corridor/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/ru/middle-corridor/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/middle-corridor/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/middle-corridor/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/middle-corridor/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/middle-corridor/"/>
+  </url>
+  <url>
+    <loc>https://wutong520204-a11y.github.io/zh/middle-corridor/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/middle-corridor/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/middle-corridor/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/middle-corridor/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/middle-corridor/"/>
+  </url>
+</urlset>
