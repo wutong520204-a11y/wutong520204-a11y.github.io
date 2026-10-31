@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>集装箱装箱计算器——20GP、40GP、40HQ 能装多少箱</title>
+<meta name="description" content="按体积、最大载重和简单整齐码放，估算 20 尺、40 尺平柜和 40 尺高柜能装多少纸箱。免费在线装柜估算工具。">
+<link rel="canonical" href="https://wutong520204-a11y.github.io/zh/container-loading-calculator/">
+<link rel="alternate" hreflang="en" href="https://wutong520204-a11y.github.io/en/container-loading-calculator/">
+<link rel="alternate" hreflang="ru" href="https://wutong520204-a11y.github.io/ru/container-loading-calculator/">
+<link rel="alternate" hreflang="zh-Hans" href="https://wutong520204-a11y.github.io/zh/container-loading-calculator/">
+<link rel="alternate" hreflang="x-default" href="https://wutong520204-a11y.github.io/en/container-loading-calculator/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="集装箱装箱计算器——20GP、40GP、40HQ 能装多少箱">
+<meta property="og:description" content="按体积、最大载重和简单整齐码放，估算 20 尺、40 尺平柜和 40 尺高柜能装多少纸箱。免费在线装柜估算工具。">
+<meta property="og:url" content="https://wutong520204-a11y.github.io/zh/container-loading-calculator/">
+<meta property="og:locale" content="zh_CN">
+<meta name="theme-color" content="#0b6bcb">
+<link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"集装箱装箱量估算","url":"https://wutong520204-a11y.github.io/zh/container-loading-calculator/","description":"按体积、最大载重和简单整齐码放，估算 20 尺、40 尺平柜和 40 尺高柜能装多少纸箱。免费在线装柜估算工具。","inLanguage":"zh-Hans","applicationCategory":"BusinessApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","inLanguage":"zh-Hans","mainEntity":[{"@type":"Question","name":"20 尺柜能装多少方？","acceptedAnswer":{"@type":"Answer","text":"标准 20GP 内容积约 33 m³。装纸箱时因为有缝隙和码放损耗，按 25–28 m³（利用率约 75%–85%）做计划比较实际。"}},{"@type":"Question","name":"40GP 和 40HQ 有什么区别？","acceptedAnswer":{"@type":"Answer","text":"两者内长都约 12 米。高柜（40HQ）高出约 30 厘米，容积约 76 m³，平柜约 68 m³，更适合轻泡货。"}},{"@type":"Question","name":"为什么我的柜子先到限重而不是装满？","acceptedAnswer":{"@type":"Answer","text":"密度大的货（瓷砖、金属件、液体）没装满就到载重上限了。另外要核对公路限重，它可能低于集装箱的额定载重。"}},{"@type":"Question","name":"这是正式的装箱方案吗？","acceptedAnswer":{"@type":"Answer","text":"不是，这是估算。正式装箱方案要考虑摆放方向、纸箱抗压、托盘和重量分布。最终装柜请找货代或使用专业装箱软件。"}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"CorridorCalc","item":"https://wutong520204-a11y.github.io/zh/"},{"@type":"ListItem","position":2,"name":"集装箱装箱量估算","item":"https://wutong520204-a11y.github.io/zh/container-loading-calculator/"}]}</script>
+</head>
+<body data-tool="container-loading-calculator" data-lang="zh">
+<a class="skip" href="#main">跳到计算器</a>
+<header class="top"><div class="wrap bar">
+<a class="brand" href="../../zh/"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7l9-4 9 4v10l-9 4-9-4V7zm9-1.8L6.2 7.7 12 10.3l5.8-2.6L12 5.2zM5 9.3v6.4l6 2.7v-6.4L5 9.3zm8 9.1l6-2.7V9.3l-6 2.7v6.4z"/></svg>CorridorCalc</a>
+<nav class="mainnav"><a href="../../zh/">全部工具</a><a href="../../zh/middle-corridor/">中间走廊</a></nav>
+<nav class="langs" aria-label="语言"><a href="../../en/container-loading-calculator/" hreflang="en" lang="en">English</a><a href="../../ru/container-loading-calculator/" hreflang="ru" lang="ru">Русский</a><span aria-current="true" lang="zh-Hans">中文</span></nav>
+</div></header>
+<main id="main" class="wrap">
+<h1>集装箱装箱量估算</h1>
+<p class="lead">输入一种纸箱的尺寸和毛重，工具会按可用容积和最大载重对比 20GP、40GP、40HQ，并标出受哪项限制。</p>
+<p class="estimate" role="note">所有结果均为估算，仅供计划参考。承运人、货代和场站各有计费规则、进位方式和运价，请以正式报价为准。</p>
+<form class="card calc" id="calc" autocomplete="off" onsubmit="return false">
+  <div class="row"><label class="fld"><span>单位</span><select id="unit"><option value="cm" selected>厘米</option><option value="in">英寸</option><option value="m">米</option></select></label><label class="fld"><span>长</span><input id="l" type="number" inputmode="decimal" min="0" step="any" value="60"></label><label class="fld"><span>宽</span><input id="w" type="number" inputmode="decimal" min="0" step="any" value="40"></label><label class="fld"><span>高</span><input id="h" type="number" inputmode="decimal" min="0" step="any" value="40"></label></div>
+  <div class="row"><label class="fld"><span>单箱毛重（kg）</span><input id="kg" type="number" inputmode="decimal" min="0" step="any" value="15"></label><label class="fld"><span>要发的箱数（可选）</span><input id="qty" type="number" inputmode="decimal" min="0" step="any" step="1"></label><label class="fld"><span>空间利用率（%）</span><input id="util" type="number" inputmode="decimal" min="0" step="any" value="85" max="100"></label><label class="fld"><span>自定义最大载重（kg，可选）</span><input id="payload" type="number" inputmode="decimal" min="0" step="any" ></label></div>
+  <p class="hint">人工散装纸箱一般按 75%–90% 估算。</p>
+</form>
+<section class="card results" aria-live="polite"><h2>计算结果</h2><div class="tbl-wrap"><table class="cmp" id="cmp"></table></div><p id="note" class="basis"></p></section>
+<!-- Reserved ad slot: intentionally empty. No ad code is loaded. -->
+<div class="ad-slot" data-ad-slot="container-loading-calculator-1" aria-hidden="true"></div>
+<section class="card prose"><h2>计算方法</h2><p>按体积可装 =（内容积 × 利用率）÷ 单箱体积。利用率用来扣除缝隙、箱门余量和码放不齐的损耗，人工散装纸箱一般取 75%–90%。</p><p>按限重可装 = 最大载重 ÷ 单箱毛重，估算结果取两者中较小的值。“简单整齐码放”表示全部同一方向摆放时能放下的箱数，可用来交叉核对。</p><p>内尺寸和载重是标准钢制干货柜的典型数值，实际以箱东和箱门上的标注为准；起运国或目的国的公路限重可能低于集装箱本身的载重。</p></section>
+<section class="card prose faq"><h2>常见问题</h2><details><summary>20 尺柜能装多少方？</summary><p>标准 20GP 内容积约 33 m³。装纸箱时因为有缝隙和码放损耗，按 25–28 m³（利用率约 75%–85%）做计划比较实际。</p></details><details><summary>40GP 和 40HQ 有什么区别？</summary><p>两者内长都约 12 米。高柜（40HQ）高出约 30 厘米，容积约 76 m³，平柜约 68 m³，更适合轻泡货。</p></details><details><summary>为什么我的柜子先到限重而不是装满？</summary><p>密度大的货（瓷砖、金属件、液体）没装满就到载重上限了。另外要核对公路限重，它可能低于集装箱的额定载重。</p></details><details><summary>这是正式的装箱方案吗？</summary><p>不是，这是估算。正式装箱方案要考虑摆放方向、纸箱抗压、托盘和重量分布。最终装柜请找货代或使用专业装箱软件。</p></details></section>
+<nav class="card related" aria-label="其他工具"><h2>其他工具</h2><ul><li><a href="../../zh/cbm-calculator/">CBM 体积计算器</a></li><li><a href="../../zh/chargeable-weight-calculator/">计费重计算器</a></li><li><a href="../../zh/fcl-vs-lcl-calculator/">整柜与拼箱对比</a></li><li><a href="../../zh/unit-converter/">物流单位换算</a></li><li><a href="../../zh/middle-corridor/">中间走廊数据</a></li></ul></nav>
+</main>
+<footer class="foot"><div class="wrap"><p>中国—中亚—高加索—欧洲货运免费计算器</p><p>免费使用，无需注册。所有计算都在浏览器本地完成，输入的数据不会上传。</p><p class="muted">核对日期: 2026-10-31</p></div></footer>
+<script type="application/json" id="i18n">{"locale":"zh-CN","ui":{"unit":"单位","length":"长","width":"宽","height":"高","qty":"箱数","weightPer":"单箱毛重（kg）","addRow":"+ 添加箱规","remove":"删除","reset":"重置","totalPieces":"总箱数","totalCbm":"总体积","totalCft":"总体积（立方英尺）","totalWeight":"总毛重","lineCbm":"该行体积","sendToCw":"用这票货计算计费重 →","mode":"运输方式","modes":{"air6000":"空运——除数 6000（IATA）","air5000":"空运——除数 5000","express5000":"国际快递——除数 5000","sea":"海运拼箱——1 m³ = 1000 kg（W/M）","rail333":"铁路——1 m³ = 333 kg（常见，以承运人为准）","road333":"公路/卡车——1 m³ = 333 kg（常见，以承运人为准）","custom":"自定义系数（kg/m³）"},"customFactor":"自定义系数（kg/m³）","dimsHint":"输入单件尺寸（厘米），或直接填写总体积。","pieces":"件数","grossTotal":"总毛重（kg）","volumeOverride":"或直接填总体积（m³）","volume":"体积","volumetric":"体积重","actual":"实重","chargeable":"计费重","rounded":"按 0.5 kg 向上进位","revenueTons":"计费吨（W/M）","basisVolume":"按体积计费——属于泡货（轻抛货）。","basisWeight":"按实重计费——属于重货。","allModes":"各运输方式对比","factor":"系数（kg/m³）","cartonDims":"纸箱尺寸","cartonWeight":"单箱毛重（kg）","qtyToShip":"要发的箱数（可选）","utilization":"空间利用率（%）","utilizationHint":"人工散装纸箱一般按 75%–90% 估算。","payloadOverride":"自定义最大载重（kg，可选）","container":"箱型","internalDims":"内尺寸 长×宽×高（m）","internalCbm":"内容积","usableCbm":"可用容积","byVolume":"按体积可装","byWeight":"按限重可装","grid":"简单整齐码放","estimateFit":"估算可装箱数","limitedBy":"受限于","limVolume":"体积","limWeight":"载重","containersNeeded":"所需柜数","maxPayload":"最大载重","noFit":"纸箱尺寸超过集装箱内尺寸，装不进去。","loaded":"装载","unlimited":"不受限","shipCbm":"货物体积（m³）","shipKg":"货物毛重（kg）","lclRate":"拼箱运价（每 W/M）","lclMin":"拼箱最低计费（W/M）","lclFixed":"拼箱每票固定费用","fclPrice":"整柜每柜价格","currencyHint":"所有价格请用同一币种（USD、EUR、CNY 等），两边计入的费用项目要一致。","wm":"计费 W/M","lclCost":"拼箱合计","fclCost":"整柜合计","breakEven":"盈亏平衡方数","recLCL":"这票货走拼箱（LCL）更便宜。","recFCL":"这票货走整柜（FCL）更便宜。","recEqual":"两种方式费用相同。","saves":"差额","recNote":"还要考虑：整柜装卸环节少，不用在 CFS 仓等拼箱；拼箱适合量小、不固定的货。","weightGroup":"重量","lengthGroup":"长度","volumeGroup":"体积","units":{"kg":"千克（kg）","lb":"磅（lb）","t":"公吨（t）","g":"克（g）","cm":"厘米（cm）","in":"英寸（in）","m":"米（m）","ft":"英尺（ft）","mm":"毫米（mm）","cbm":"立方米（m³，CBM）","cft":"立方英尺（ft³，CFT）","l":"升（L）"},"u":{"cm":"厘米","in":"英寸","m":"米","kg":"kg","cbm":"m³","cft":"ft³","t":"吨","pcs":"箱"}}}</script>
+<script src="../../assets/calc.js" defer></script>
+<script src="../../assets/app.js" defer></script>
+</body>
+</html>
